@@ -7,9 +7,9 @@ package ru.job4j;
 public class Calculate {
 	/**
     *Method main метод для запуска классов интерпритатором.
-    *@ param args - входящий аргумент
+    *@param args - входящий аргумент
 	*/
- public static void main (String []args){
+ public static void main(String[] args) {
    System.out.println("Hello World.");
-  }         
+}
 }
